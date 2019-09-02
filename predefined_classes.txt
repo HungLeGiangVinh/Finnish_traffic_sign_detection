@@ -1,0 +1,9 @@
+additional_sign
+information_sign
+mandatory_sign
+priority_and_give-way_sign
+prohibitory_and_restrictive_sign
+regulatory_sign
+road_sign
+service_sign
+warning_sign
